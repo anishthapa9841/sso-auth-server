@@ -1,0 +1,13 @@
+{
+    "name": "anishthapa9841/sso-server-php",
+    "authors": [
+        {
+            "name": "Anish Thapa",
+            "email": "anishthapa@live.com"
+        }
+    ],
+    "require": {
+        "bshaffer/oauth2-server-php": "^1.11",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
